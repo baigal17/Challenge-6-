@@ -2,7 +2,7 @@
 ** This is a data visualization tool that gives an user the abilty to analyze the San Francisco market for investment opportunities.
 
 
-##Technologies
+**Technologies
 
 > This projects uses python 3.7 with the following packages:
 [pandas](https://pandas.pydata.org/)
